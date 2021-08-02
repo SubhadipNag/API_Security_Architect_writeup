@@ -2,4 +2,4 @@
 This writeup for those students they enrolled the course and attend the API security architect examination
 
 
-<img src="https://s3.eu-west-1.amazonaws.com/learnupon/badges/117225/badge/Badge-SecArch.png" alt="Certified API_Security_Architect" position="center">
+<img src="https://s3.eu-west-1.amazonaws.com/learnupon/badges/117225/badge/Badge-SecArch.png">
